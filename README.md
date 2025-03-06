@@ -8,7 +8,7 @@ Starting MSc Mathematical Engineering - Advanced Quantum Engineering @ PoliMi in
 
 ## 🚀 Check out my projects:
 
-### 🧠 Machine Learning & Data Science
+### 🤖 Machine Learning & Data Science
 - **Credit Card Fraud Detection** – Analysing fraudulent transactions using Logistic Regression, Naive Bayes Classifier, Decision Tree and Gradient Boosted Tree. [repo](https://github.com/al3gzy/credit_card_fraud)
 - **Hybrid Physics-Informed Neural Operator with Fourier Transformation** - Combined approach (PINNs, PINO, FNO) for magnetic field orientation in Bloch-Torrey equations. (in progress)
 
