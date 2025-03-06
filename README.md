@@ -1,6 +1,6 @@
 # 👽 About Me
 
-I'm a Applied Mathematics - Data Science student pursuing a BSc at Faculty of Sciences, University of Novi Sad. Interested in the **computational physics**, with specific focus on: quantum dynamics, chaos theory, stochastic processes, functional analysis, machine learning and optimisation. 
+I'm a student of Applied Mathematics - Data Science pursuing a BSc at the Faculty of Sciences, University of Novi Sad. Interested in the **computational physics**, with specific focus on: quantum dynamics, chaos theory, stochastic processes, functional analysis, machine learning and optimisation. 
 
 Currently, I am combining PINNs, PINO and FNO into **HyPINO-F** model for magnetic field orientation in Bloch-Torrey equations.
 
@@ -10,7 +10,7 @@ Starting MSc Mathematical Engineering - Advanced Quantum Engineering @ PoliMi in
 
 ### 🧠 Machine Learning & Data Science
 - **Credit Card Fraud Detection** – Analysing fraudulent transactions using Logistic Regression, Naive Bayes Classifier, Decision Tree and Gradient Boosted Tree. [repo](https://github.com/al3gzy/credit_card_fraud)
-- **Hybrid Physics-Informed Neural Opertor with Fourier Transformation** - Combined approach (PINNs, PINO, FNO) for magnetic field orientation in Bloch-Torrey equations.
+- **Hybrid Physics-Informed Neural Operator with Fourier Transformation** - Combined approach (PINNs, PINO, FNO) for magnetic field orientation in Bloch-Torrey equations.
 
 ### 🪐 Computational Physics
 - **Boltzmann Distribution in Financial Markets** - Monte Carlo simulations to predict market trends by drawing analogies between asset price fluctiations and energy states. [repo](https://github.com/al3gzy/boltzmann_financial_markets)
