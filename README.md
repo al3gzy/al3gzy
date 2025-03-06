@@ -10,12 +10,12 @@ Starting **MSc Mathematical Engineering - Advanced Quantum Engineering** @ PoliM
 
 ### 🤖 Machine Learning
 - **Credit Card Fraud Detection** – Analysing fraudulent transactions using Logistic Regression, Naive Bayes Classifier, Decision Tree and Gradient Boosted Tree. [repo](https://github.com/al3gzy/credit_card_fraud) [Year 2023]
+- **Superconductor Property Prediction** – Predicting superconducting properties of materials based on their atomic structure and composition using Linear Regression, Random Forest and Gradient Boosting. [repo](https://github.com/al3gzy/superconductor_property) [Year 2024]
 - **Hybrid Physics-Informed Neural Operator with Fourier Transformation** - Combined approach (PINNs, PINO, FNO) for magnetic field orientation in Bloch-Torrey equations. (in progress)
 
 ### 🪐 Computational Physics
 - **Boltzmann Distribution in Financial Markets** - Monte Carlo simulations to predict market trends by drawing analogies between asset price fluctiations and energy states. [repo](https://github.com/al3gzy/boltzmann_financial_markets) [Year 2024]
-- **Superconductor Property Prediction** – Predicting superconducting properties of materials based on their atomic structure and composition using Linear Regression, Random Forest and Gradient Boosting. [repo](https://github.com/al3gzy/superconductor_property) [Year 2024]
-- **Self-Healing Material** - Simulating the healing process of materials by modeling diffusion and adsorption in a 1D domain and evaluating crack closure efficiency based on concentration dynamics and stress distribution over time. [repo](https://github.com/al3gzy/self_healing_rd_eq)
+- **Self-Healing Process** - Simulating the healing process of materials by modeling diffusion and adsorption in a 1D domain and evaluating crack closure efficiency based on concentration dynamics and stress distribution over time. [repo](https://github.com/al3gzy/self_healing_rd_eq)
 - **Bloch and Bloch-Torrey Equations for Magnetization Dynamics** - Solving four specific cases with Improved Euler and Crank-Nicolson methods using sparse matrices for efficient computation. [repo](https://github.com/al3gzy/bloch_numerical) [Year 2025]
 
 ### 🎲 Game Theory
