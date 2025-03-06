@@ -15,7 +15,7 @@ Starting **MSc Mathematical Engineering - Advanced Quantum Engineering** @ PoliM
 ### 🪐 Computational Physics
 - **Boltzmann Distribution in Financial Markets** - Monte Carlo simulations to predict market trends by drawing analogies between asset price fluctiations and energy states. [repo](https://github.com/al3gzy/boltzmann_financial_markets) [Year 2024]
 - **Superconductor Property Prediction** – Predicting superconducting properties of materials based on their atomic structure and composition using Linear Regression, Random Forest and Gradient Boosting. [repo](https://github.com/al3gzy/superconductor_property) [Year 2024]
-- **Self-Healing Material** - Simulating the healing process of materials by modeling diffusion, adsorption and stress dynamics in a 1D domain, evaluating crack closure efficiency based on concentration dynamics and stress distribution over time. [repo](https://github.com/al3gzy/self_healing_rd_eq)
+- **Self-Healing Material** - Simulating the healing process of materials by modeling diffusion and adsorption in a 1D domain and evaluating crack closure efficiency based on concentration dynamics and stress distribution over time. [repo](https://github.com/al3gzy/self_healing_rd_eq)
 - **Bloch and Bloch-Torrey Equations** - Solving four specific cases with Improved Euler and Crank-Nicolson methods. [repo](https://github.com/al3gzy/bloch_numerical) [Year 2025]
 
 ### 🎲 Game Theory
