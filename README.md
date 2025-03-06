@@ -22,7 +22,3 @@ Starting MSc Mathematical Engineering - Advanced Quantum Engineering @ PoliMi in
 - **Tic-Tac-Toe** - Player vs AI opponent using the minimax algorithm on 3x3 board. [repo](https://github.com/al3gzy/tic_tac_toe)
 - **Algorithm X** as a board solver for Harary's Generalised Tic-Tac-Toe. [repo](https://github.com/al3gzy/animal_t3)
 - **Non-Zero-Sum Stochastic Games** for Derivative Pricing with Q-learning. [repo](https://github.com/al3gzy/q-learning_non-zero-sum)
-
----
-📍 **Location:** Novi Sad, Serbia
-📫 **Contact:** aleksamilovanovic@hotmail.com
