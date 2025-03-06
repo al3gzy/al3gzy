@@ -1,6 +1,6 @@
 # 👽 About Me
 
-I'm a student of Applied Mathematics - Data Science pursuing a BSc at the Faculty of Sciences, University of Novi Sad. Interested in the **computational physics**, with specific focus on: quantum dynamics, chaos theory, stochastic processes, functional analysis, machine learning and optimisation. 
+I'm a student of Applied Mathematics - Data Science pursuing a BSc at the Faculty of Sciences, University of Novi Sad. Interested in the **computational physics**, with specific focus on **quantum dynamics** and **machine learning**.
 
 Currently, I am combining PINNs, PINO and FNO into **HyPINO-F** model for magnetic field orientation in Bloch-Torrey equations.
 
