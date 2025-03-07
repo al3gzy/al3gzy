@@ -11,7 +11,7 @@ Starting **MSc Mathematical Engineering - Advanced Quantum Engineering** @ PoliM
 ### 🤖 Machine Learning
 - **Credit Card Fraud Detection** – Analysing fraudulent transactions using Logistic Regression, Naive Bayes Classifier, Decision Tree and Gradient Boosted Tree. [repo](https://github.com/al3gzy/credit_card_fraud) [Year 2023]
 - **Superconductor Property Prediction** – Predicting superconducting properties of materials based on their atomic structure and composition using Linear Regression, Random Forest and Gradient Boosting. [repo](https://github.com/al3gzy/superconductor_property) [Year 2024]
-- **Head Shape and Age Analysis** - Head shape dimensions and their correlation with age, utilising data preprocessing, descriptive statistics, ANOVA, ML classification models, regression, clustering and PCA.[repo](https://github.com/al3gzy/head_shape_and_age)
+- **Head Shape and Age Analysis** - Head shape dimensions and their correlation with age, utilising data preprocessing, descriptive statistics, ANOVA, ML classification models, regression, clustering and PCA. [repo](https://github.com/al3gzy/head_shape_and_age) [Year 2025]
 - **Hybrid Physics-Informed Neural Operator with Fourier Transformation** - Combined approach (PINNs, PINO, FNO) for magnetic field orientation in Bloch-Torrey equations. (in progress)
 
 ### 🪐 Computational Physics
