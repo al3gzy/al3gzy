@@ -8,9 +8,10 @@ Starting **MSc Mathematical Engineering - Advanced Quantum Engineering** @ PoliM
 
 ## 🚀 Check out my projects:
 
-### 🤖 Machine Learning
+### 🤖 Data Science
 - **Credit Card Fraud Detection** – Logistic Regression, Random Forest and Gradient Boosting to predict fraudulent credit card transactions, with a focus on data preprocessing, feature selection and model evaluation. [repo](https://github.com/al3gzy/credit_card_fraud) [Year 2023]
 - **Superconductor Property Prediction** – Predicting superconducting properties of materials based on their atomic structure and composition using Linear Regression, Random Forest and Gradient Boosting. [repo](https://github.com/al3gzy/superconductor_property) [Year 2024]
+- **France Tax Analysis** - Statistical analysis on tax data from France, with various sampling techniques, confidence intervals for tax estimations and population projections. [repo](https://github.com/al3gzy/france-tax) [Year 2024]
 - **Head Shape and Age Analysis** - Identifying correlation via data preprocessing, descriptive statistics, ANOVA, THSD, Random Forest, SVM, Logistic Regression, Ridge and Lasso, K-means and PCA. [repo](https://github.com/al3gzy/head_shape_and_age) [Year 2025]
 - **Hybrid Physics-Informed Neural Operator with Fourier Transformation** - Combined approach (PINNs, PINO, FNO) for magnetic field orientation in Bloch-Torrey equations. (in progress)
 
