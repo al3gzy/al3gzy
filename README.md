@@ -20,6 +20,7 @@ Starting **MSc Mathematical Engineering - Advanced Quantum Engineering** @ PoliM
 - **Bloch and Bloch-Torrey Equations for Magnetization Dynamics** - Solving four specific cases with Improved Euler and Crank-Nicolson methods using sparse matrices for efficient computation. [repo](https://github.com/al3gzy/bloch_numerical) [Year 2025]
 
 ### 🎲 Game Theory
+- **Alice and Bob Game** - Players select numbers from an array based on specific rules. [repo](https://github.com/al3gzy/alisa-bob) [Year 2023]
 - **Tic-Tac-Toe** - Player vs AI opponent using the minimax algorithm on 3x3 board. [repo](https://github.com/al3gzy/tic_tac_toe) [Year 2023]
 - **Algorithm X** - Board solver for Harary's Generalised Tic-Tac-Toe. [repo](https://github.com/al3gzy/animal_t3) [Year 2023]
 - **Non-Zero-Sum Stochastic Games** - Derivative Pricing with Q-learning. [repo](https://github.com/al3gzy/q-learning_non-zero-sum) [Year 2024]
