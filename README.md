@@ -2,8 +2,6 @@
 
 I'm a student of Applied Mathematics - Data Science pursuing a BSc at the Faculty of Sciences, University of Novi Sad. Interested in the **computational physics**, with specific focus on **quantum dynamics** and **machine learning**.
 
-Starting **MSc Mathematical Engineering - Advanced Quantum Engineering** @ PoliMi in September 2025. 
-
 ## 🚀 Check out my projects:
 
 ### 🤖 Data Science
