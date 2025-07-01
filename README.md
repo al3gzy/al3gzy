@@ -9,7 +9,7 @@ I'm a student of Applied Mathematics - Data Science pursuing a BSc at the Facult
 - **Superconductor Property Prediction** – Predicting superconducting properties of materials based on their atomic structure and composition using Linear Regression, Random Forest and Gradient Boosting. [repo](https://github.com/al3gzy/superconductor_property) [Year 2024]
 - **France Tax Analysis** - Statistical analysis on tax data from France, with various sampling techniques, confidence intervals for tax estimations and population projections. [repo](https://github.com/al3gzy/france-tax) [Year 2024]
 - **Head Shape and Age Analysis** - Identifying correlation via data preprocessing, descriptive statistics, ANOVA, THSD, Random Forest, SVM, Logistic Regression, Ridge and Lasso, K-means and PCA. [repo](https://github.com/al3gzy/head_shape_and_age) [Year 2025]
-- **Seoul Bike Data** - Applied classification (KNN, Linear Regression for classification, LDA, QDA, Logistic Regression) and regression (Linear, Ridge, Lasso, KNN Regression) methods with backward stepwise regression and K-Fold cross-validation. [repo](https://github.com/al3gzy/seoulbikedata) [Year 2025]
+- **Seoul Bike Data** - Applied classification (KNN, Linear and Logistic Regression, LDA, QDA) and regression (Linear, Ridge, Lasso, KNN Regression) methods with backward stepwise regression and K-Fold cross-validation. [repo](https://github.com/al3gzy/seoulbikedata) [Year 2025]
 
 ### 🪐 Computational Physics
 - **Boltzmann Distribution in Financial Markets** - Monte Carlo simulations to predict market trends by drawing analogies between asset price fluctiations and energy states. [repo](https://github.com/al3gzy/boltzmann_financial_markets) [Year 2024]
