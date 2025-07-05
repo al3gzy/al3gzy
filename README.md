@@ -15,7 +15,7 @@ I'm a student of Applied Mathematics - Data Science pursuing a BSc at the Facult
 - **Boltzmann Distribution in Financial Markets** - Monte Carlo simulations to predict market trends by drawing analogies between asset price fluctiations and energy states. [repo](https://github.com/al3gzy/boltzmann_financial_markets) [Year 2024]
 - **Self-Healing Process** - Simulating the healing process of materials by modeling diffusion and adsorption in a 1D domain, evaluating crack closure level based on concentration dynamics and stress distribution. [repo](https://github.com/al3gzy/self_healing_rd_eq) [Year 2024]
 - **Bloch and Bloch-Torrey Equations for Magnetization Dynamics** - Solving four specific cases with Improved Euler and Crank-Nicolson methods using sparse matrices for efficient computation. [repo](https://github.com/al3gzy/bloch_numerical) [Year 2025]
-- **Nonlinear Optimization** – Solved (un)constrained optimization problems using Gradient Descent, Newton, Inexact Newton and BFGS methods. Implemented KKT systems, Projected Gradient and nonlinear least squares (Gauss-Newton, Levenberg-Marquardt) with visualization and convergence analysis. [repo][https://github.com/al3gzy/nonlinear-optimization] [Year 2025]
+- **Nonlinear Optimization** – Solved (un)constrained optimization problems using Gradient Descent, Newton, Inexact Newton and BFGS methods. Implemented KKT systems, Projected Gradient and nonlinear least squares (Gauss-Newton, Levenberg-Marquardt) with visualization and convergence analysis. [repo](https://github.com/al3gzy/nonlinear-optimization) [Year 2025]
 
 ### 🎲 Game Theory
 - **Alice and Bob Game** - Players select numbers from an array based on specific rules. [repo](https://github.com/al3gzy/alisa-bob) [Year 2023]
