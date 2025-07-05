@@ -6,14 +6,12 @@ I'm a student of Applied Mathematics - Data Science pursuing a BSc at the Facult
 
 ### 🤖 Data Science
 - **Credit Card Fraud Detection** – Logistic Regression, Random Forest and Gradient Boosting to predict fraudulent credit card transactions, with a focus on data preprocessing, feature selection and model evaluation. [repo](https://github.com/al3gzy/credit_card_fraud) [Year 2023]
-- **Superconductor Property Prediction** – Predicting superconducting properties of materials based on their atomic structure and composition using Linear Regression, Random Forest and Gradient Boosting. [repo](https://github.com/al3gzy/superconductor_property) [Year 2024]
 - **France Tax Analysis** - Statistical analysis on tax data from France, with various sampling techniques, confidence intervals for tax estimations and population projections. [repo](https://github.com/al3gzy/france-tax) [Year 2024]
 - **Head Shape and Age Analysis** - Identifying correlation via data preprocessing, descriptive statistics, ANOVA, THSD, Random Forest, SVM, Logistic Regression, Ridge and Lasso, K-means and PCA. [repo](https://github.com/al3gzy/head_shape_and_age) [Year 2025]
 - **Seoul Bike Data** - Applied classification (KNN, Linear and Logistic Regression, LDA, QDA) and regression (Linear, Ridge, Lasso, KNN Regression) methods with backward stepwise regression and K-Fold cross-validation. [repo](https://github.com/al3gzy/seoulbikedata) [Year 2025]
 
 ### 🪐 Numerical Analysis
 - **Boltzmann Distribution in Financial Markets** - Monte Carlo simulations to predict market trends by drawing analogies between asset price fluctiations and energy states. [repo](https://github.com/al3gzy/boltzmann_financial_markets) [Year 2024]
-- **Self-Healing Process** - Simulating the healing process of materials by modeling diffusion and adsorption in a 1D domain, evaluating crack closure level based on concentration dynamics and stress distribution. [repo](https://github.com/al3gzy/self_healing_rd_eq) [Year 2024]
 - **Bloch and Bloch-Torrey Equations for Magnetization Dynamics** - Solving four specific cases with Improved Euler and Crank-Nicolson methods using sparse matrices for efficient computation. [repo](https://github.com/al3gzy/bloch_numerical) [Year 2025]
 - **Nonlinear Optimization** – Solved (un)constrained optimization problems using Gradient Descent, Newton, Inexact Newton and BFGS methods. Implemented KKT systems, Projected Gradient and nonlinear least squares (Gauss-Newton, Levenberg-Marquardt) with visualization and convergence analysis. [repo](https://github.com/al3gzy/nonlinear-optimization) [Year 2025]
 
