@@ -11,7 +11,5 @@ I'm a student of Applied Mathematics - Data Science pursuing a BSc at the Facult
 - **Seoul Bike Data** - Applied classification (KNN, Linear and Logistic Regression, LDA, QDA) and regression (Linear, Ridge, Lasso, KNN Regression) methods with backward stepwise regression and K-Fold cross-validation. [repo](https://github.com/al3gzy/seoulbikedata) [Year 2025]
 
 ### 🎲 Game Theory
-- **Alice and Bob Game** - Players select numbers from an array based on specific rules. [repo](https://github.com/al3gzy/alisa-bob) [Year 2023]
-- **Tic-Tac-Toe** - Player vs AI opponent using the minimax algorithm on 3x3 board. [repo](https://github.com/al3gzy/tic_tac_toe) [Year 2023]
 - **Algorithm X** - Board solver for Harary's Generalised Tic-Tac-Toe. [repo](https://github.com/al3gzy/animal_t3) [Year 2023]
 - **Non-Zero-Sum Stochastic Games** - Derivative Pricing with Q-learning. [repo](https://github.com/al3gzy/q-learning_non-zero-sum) [Year 2024]
