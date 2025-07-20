@@ -2,7 +2,7 @@
 
 I'm a student of Applied Mathematics - Data Science pursuing a BSc at the Faculty of Sciences, University of Novi Sad. Interested in the **computational physics**, with specific focus on **quantum dynamics** and **machine learning**.
 
-## 🚀 Highlighted projects projects:
+## 🚀 Highlighted projects
 
 ### 🧾 France Tax Analysis
 Statistical analysis on tax data from France, with various sampling techniques, confidence intervals for tax estimations and population projections. [repo](https://github.com/al3gzy/france-tax) [Year 2024]
