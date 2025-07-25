@@ -17,4 +17,4 @@ Implemented Gradient Descent, Newton, Inexact Newton and BFGS methods for statio
 Exploratory data analysis and classification modeling (Logistic Regression, KNN, Random Forest) to predict podium finishes in Formula 1 races. Data preprocessing, feature scaling, balancing and model evaluation with confusion matrices and ROC curves. [repo soon] [Year 2025]
 
 ## 📊 Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al3gzy&layout=compact)
