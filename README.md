@@ -14,7 +14,7 @@ Applied classification (KNN, Linear and Logistic Regression, LDA, QDA) and regre
 Implemented Gradient Descent, Newton, Inexact Newton and BFGS methods for stationary point detection. Solved KKT systems and applied Projected Gradient for box constraints. Modeled and fit nonlinear functions using least squares. Visualized convergence paths, feasible regions and optimization landscapes. [repo](https://github.com/al3gzy/nonlinear-optimization) [Year 2025]
 
 ### 🏎️ F1 World Championship
-Exploratory data analysis and classification modeling (Logistic Regression, KNN, Random Forest) to predict podium finishes in Formula 1 races. Data preprocessing, feature scaling, balancing and model evaluation with confusion matrices and ROC curves. [repo soon] [Year 2025]
+Exploratory data analysis and classification modeling (Logistic Regression, KNN, Random Forest) to predict podium finishes in Formula 1 races. Data preprocessing, feature scaling, balancing and model evaluation with confusion matrices and ROC curves. [repo soon](https://github.com/al3gzy/f1_world_championship) [Year 2025]
 
 ## 📊 Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al3gzy&layout=compact)
