@@ -10,8 +10,8 @@ Statistical analysis on tax data from France, with various sampling techniques, 
 ### 🚴🏼‍♂️ Seoul Bike Data
 Applied classification (KNN, Linear and Logistic Regression, LDA, QDA) and regression (Linear, Ridge, Lasso, KNN Regression) methods with backward stepwise regression and K-Fold cross-validation. [repo](https://github.com/al3gzy/seoulbikedata) [Year 2025]
 
-### Nonlinear Optimization
-Implemented Gradient Descent, Newton, Inexact Newton, and BFGS methods for stationary point detection. Solved KKT systems and applied Projected Gradient for box constraints. Modeled and fit nonlinear functions using least squares. Visualized convergence paths, feasible regions, and optimization landscapes. [repo](https://github.com/al3gzy/nonlinear-optimization) [Year 2025]
+### ⚙️ Nonlinear Optimization
+Implemented Gradient Descent, Newton, Inexact Newton and BFGS methods for stationary point detection. Solved KKT systems and applied Projected Gradient for box constraints. Modeled and fit nonlinear functions using least squares. Visualized convergence paths, feasible regions and optimization landscapes. [repo](https://github.com/al3gzy/nonlinear-optimization) [Year 2025]
 
 ### 🏎️ F1 World Championship
 Exploratory data analysis and classification modeling (Logistic Regression, KNN, Random Forest) to predict podium finishes in Formula 1 races. Data preprocessing, feature scaling, balancing and model evaluation with confusion matrices and ROC curves. [repo soon] [Year 2025]
